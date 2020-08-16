@@ -1,5 +1,7 @@
 # Marlin 3D Printer Firmware
 
+![](assets/boot.png)
+
 ## Features
 
 * Marlin 2
