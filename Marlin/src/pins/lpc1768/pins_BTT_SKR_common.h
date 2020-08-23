@@ -93,7 +93,7 @@
 // LCD / Controller
 //
 #if HAS_SPI_LCD
-  #define BEEPER_PIN                       P1_30  // (37) not 5V tolerant
+  #define BEEPER_PIN                       -1  // (37) not 5V tolerant
 #endif
 
 //
